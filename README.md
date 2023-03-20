@@ -1,2 +1,2 @@
-# plots-graphs-app
-Generate Plots
+# PlotSprint
+PlotSprint - The Plot Generator
